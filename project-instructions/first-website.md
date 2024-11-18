@@ -721,7 +721,7 @@ Check it out! We have some style but not very much. We can fix that by adding in
   >
   > ```CSS
   > #all-contents {
-  >    max-width: 800px;
+  >    max-width: 800 px;
   >    margin: auto;
   > }
   > ```
